@@ -27,6 +27,7 @@ Identification of high-impact countries and time periods
 Clear visualization of how the pandemic evolved over time
 📁 Project File
 COVID_Analysis.pbix
+Screenshot/Demo shows what the dashboard looks like:<img width="1494" height="719" alt="Screenshot 2026-03-23 222314" src="https://github.com/user-attachments/assets/45e51b70-9066-4475-860b-3dfae61098d9" />
 
 🚀 Conclusion
 
